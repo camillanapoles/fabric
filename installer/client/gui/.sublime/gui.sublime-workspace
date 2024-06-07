@@ -1,0 +1,664 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"DE",
+				"DEBUG_DATA_FOLDER"
+			],
+			[
+				"u",
+				"uid"
+			],
+			[
+				"ya",
+				"yaml\": {\""
+			],
+			[
+				"hom",
+				"home/cnmfs/."
+			],
+			[
+				"conda_ini",
+				"conda_iniitialize"
+			],
+			[
+				"conda_iniitiali",
+				"conda_iniitialize()"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/cnmfs/projects/AI-agents/utilidades/fabric/installer/client/gui/static/js/index.js",
+			"settings":
+			{
+				"buffer_size": 12531,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					15,
+					1,
+					"toggle_comment",
+					{
+						"block": false
+					},
+					"AQAAAO4sAAAAAAAA8SwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAGi0AAAAAAAAaLQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					20,
+					1,
+					"toggle_comment",
+					{
+						"block": false
+					},
+					"AQAAAO8tAAAAAAAA8i0AAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAGy4AAAAAAAAbLgAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "/home/cnmfs/projects/AI-agents/utilidades/fabric/installer/client/gui/main.js",
+			"settings":
+			{
+				"buffer_size": 15903,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"vmen",
+				"View: Toggle Menu"
+			],
+			[
+				"user:",
+				"Quick Settings: Edit Preferences..."
+			],
+			[
+				"men",
+				"Set Syntax: Sublime Text Menu (JSON)"
+			],
+			[
+				"pref",
+				"Preferences: Settings"
+			],
+			[
+				"window",
+				"Project Manager: Open Project in New Window"
+			],
+			[
+				"settin",
+				"View Setting"
+			],
+			[
+				"menu",
+				"PackageDev: New Main Menu File…"
+			],
+			[
+				"hide",
+				"Show/Hide \"Save changes?\" when closing build output view"
+			],
+			[
+				"view",
+				"Preferences: QuickView Settings"
+			],
+			[
+				"vi",
+				"View Setting"
+			],
+			[
+				"setti",
+				"Preferences: Settings"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Channel"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"instak",
+				"Package Control: Install Package"
+			],
+			[
+				"node",
+				"SublimeREPL: Node"
+			],
+			[
+				"comap",
+				"Compare with..."
+			],
+			[
+				"compare",
+				"Select compared text..."
+			],
+			[
+				"compa",
+				"Compare with..."
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"shell",
+				"Executor: Execute Shell Command"
+			],
+			[
+				"compare c",
+				"Select compared text..."
+			],
+			[
+				"termina",
+				"Terminal: Open in project folder"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"project",
+				"Project Manager"
+			],
+			[
+				"prefere",
+				"Preferences: Settings"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"pre",
+				"Prettierd: Format"
+			],
+			[
+				"format",
+				"JsPrettier: Format Code"
+			],
+			[
+				"forma",
+				"JsPrettier: Format Code"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Formatter",
+				"Formatter: Quick Options"
+			],
+			[
+				"package contr",
+				"Package Control: Remove Package"
+			],
+			[
+				"package ",
+				"Package Control: Remove Package"
+			],
+			[
+				"termin",
+				"Terminal: Open"
+			],
+			[
+				"Request",
+				"Requester: Settings"
+			],
+			[
+				"Http Requester",
+				"HTTP Requester"
+			],
+			[
+				"http",
+				"HTTP Requester"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"rege",
+				"RegReplace: Show Edit Panel"
+			],
+			[
+				"preview",
+				"Markdown HTML Preview"
+			],
+			[
+				"MarkdownLivePreview",
+				"MarkdownLivePreview: Open Settings"
+			],
+			[
+				"INSTA",
+				"Package Control: Install Package"
+			],
+			[
+				"python",
+				"Build With: Python - Syntax Check"
+			],
+			[
+				"settings",
+				"Preferences: Settings"
+			],
+			[
+				"translate",
+				"Preferences: Translator Settings"
+			],
+			[
+				"tra",
+				"Translate selected text"
+			],
+			[
+				"trans",
+				"Preferences: Translator Settings"
+			],
+			[
+				"the",
+				"Set Syntax: HTML (Erlang)"
+			],
+			[
+				"markdown",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"them",
+				"UI: Select Theme"
+			],
+			[
+				"transla",
+				"Preferences: Translator Settings"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 70.0,
+		"history":
+		[
+			"import os\n\nfolder=\"/home/cnmfs/projects/AI-agents/assistants/web_searcher/gpt-researcher/outputs\"\n\ndef list_files_recursive(path='.'):\n    files = []\n    for entry in os.listdir(path):\n        full_path = os.path.join(path, entry)\n        if os.path.isdir(full_path):\n            list_files_recursive(full_path)\n        else:\n            \n            if full_path.find('.md'):\n                print(full_path)\n \n# Specify the directory path you want to start from\ndirectory_path = folder\nlist_files_recursive(directory_path)",
+			"files = list_files_recursive(directory_path)",
+			"print(files)",
+			"files",
+			"files = list_files_recursive(directory_path)",
+			"import os\n\nfolder=\"/home/cnmfs/projects/AI-agents/assistants/web_searcher/gpt-researcher/outputs\"\n\ndef list_files_recursive(path='.'):\n    for entry in os.listdir(path):\n        full_path = os.path.join(path, entry)\n        if os.path.isdir(full_path):\n            list_files_recursive(full_path)\n        else:\n            print(full_path)\n \n# Specify the directory path you want to start from\ndirectory_path = folder\nlist_files_recursive(directory_path)",
+			"import os\n\nfolder=\"/home/cnmfs/projects/AI-agents/assistants/web_searcher/gpt-researcher\"\n\ndef list_files_recursive(path='.'):\n    for entry in os.listdir(path):\n        full_path = os.path.join(path, entry)\n        if os.path.isdir(full_path):\n            list_files_recursive(full_path)\n        else:\n            print(full_path)\n \n# Specify the directory path you want to start from\ndirectory_path = folder\nlist_files_recursive(directory_path)",
+			"python list_files.py"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/cnmfs/projects/AI-agents/utilidades/fabric/installer/client/gui",
+		"/home/cnmfs/projects/AI-agents/utilidades/fabric/installer/client/gui/static"
+	],
+	"file_history":
+	[
+		"/home/cnmfs/snap/chromium/common/chromium/Default/GPUCache/index",
+		"/home/cnmfs/projects/AI-agents/utilidades/convert_PDF_to_markdown/marker/marker/settings.py",
+		"/home/cnmfs/local_server/quickstart/rancher/vagrant/config.yaml",
+		"/home/cnmfs/local_server/vagrant_oficial_box/install",
+		"/home/cnmfs/.config/sublime-text-3/Packages/User/Main.sublime-menu",
+		"/home/cnmfs/.zsh_history",
+		"/etc/apt/apt.conf.d/50appstream",
+		"/etc/apt/apt.conf.d/99update-notifier",
+		"/etc/apt/apt.conf.d/70debconf",
+		"/etc/apt/apt.conf.d/10periodic",
+		"/etc/apt/apt.conf.d/99synaptic",
+		"/etc/apt/apt.conf.d/20packagekit",
+		"/home/cnmfs/snippets/docker_json_config.json",
+		"/home/cnmfs/.config/nvim/init.lua",
+		"/home/cnmfs/.config/cni/net.d/cni-podman0.conflist",
+		"/home/cnmfs/.config/cni/net.d/minikube.conflist",
+		"/home/cnmfs/snippets/docker_json_config",
+		"/home/cnmfs/.vimrc",
+		"/home/cnmfs/.viminfo",
+		"/home/cnmfs/.config/containers/storage.conf",
+		"/home/cnmfs/.tmp/pod.yaml",
+		"/usr/libexec/openvpn3-linux/openvpn3-service-netcfg",
+		"/home/cnmfs/.ssh/config",
+		"/opt/sublime_text/Lib/python33/sublime.py",
+		"/home/cnmfs/projects/AI-agents/humman-in-the-loop/data-questionnaire-agent-ALL/data-questionnaire-agent/pyproject.toml",
+		"/home/cnmfs/projects/AI-agents/humman-in-the-loop/data-questionnaire-agent-ALL/data-questionnaire-agent/run.sh",
+		"/home/cnmfs/MCTI/MCTI_Documents/entregaveis/apresentacao/apresentacao.md",
+		"/home/cnmfs/projects/hotels-scraper-js/test.js",
+		"/home/cnmfs/docker_build_push",
+		"/home/cnmfs/Produto 2.md",
+		"/home/cnmfs/projects/AI-agents/humman-in-the-loop/data-questionnaire-agent-ALL/data-questionnaire-agent/.env_new",
+		"/home/cnmfs/projects/AI-agents/humman-in-the-loop/data-questionnaire-agent-ALL/data-questionnaire-agent/.env",
+		"/home/cnmfs/projects/AI-agents/humman-in-the-loop/data-questionnaire-agent-ALL/data-questionnaire-agent/docker/docker-compose.yml",
+		"/home/cnmfs/projects/AI-agents/humman-in-the-loop/data-questionnaire-agent-ALL/data-questionnaire-agent/docker-compose.yml",
+		"/home/cnmfs/projects/AI-agents/humman-in-the-loop/data-questionnaire-agent-ALL/data-questionnaire-agent/SQL_LITE_DB.db_felipe",
+		"/home/cnmfs/projects/AI-agents/humman-in-the-loop/langchain-chainlit-docker-deployment-template/Dockerfile",
+		"/home/cnmfs/projects/AI-agents/humman-in-the-loop/langchain-chainlit-docker-deployment-template/_Dockerfile",
+		"/home/cnmfs/projects/AI-agents/humman-in-the-loop/langchain-chainlit-docker-deployment-template/Dockerfile_",
+		"/home/cnmfs/.porter/config.yaml",
+		"/home/cnmfs/projects/AI-agents/humman-in-the-loop/questionnaire-agent/porter.yaml",
+		"/home/cnmfs/projects/AI-agents/humman-in-the-loop/chainlit-data-wellness-agent/backend/README.md",
+		"/home/cnmfs/projects/AI-agents/humman-in-the-loop/data-questionnaire-agent/data_questionnaire_agent/service/embedding_service.py",
+		"/home/cnmfs/projects/AI-agents/humman-in-the-loop/devspace.yaml",
+		"/home/cnmfs/projects/AI-agents/humman-in-the-loop/data-questionnaire-agent/devspace.yaml",
+		"/home/cnmfs/projects/AI-agents/humman-in-the-loop/data-questionnaire-agent/data_questionnaire_agent/utils/tracker_db_init.py",
+		"/home/cnmfs/projects/AI-agents/agents_multiagents/langgraph_projects/opengpts/Dockerfile",
+		"/home/cnmfs/projects/AI-agents/agents_multiagents/langgraph_projects/opengpts/docker-compose-postgres.yml",
+		"/home/cnmfs/projects/AI-agents/agents_multiagents/langgraph_projects/opengpts/docker-compose.yml",
+		"/home/cnmfs/projects/AI-agents/agents_multiagents/langgraph_projects/opengpts/.env",
+		"/home/cnmfs/projects/AI-agents/agents_multiagents/langgraph_projects/opengpts/frontend/Dockerfile",
+		"/home/cnmfs/projects/AI-agents/agents_multiagents/langgraph_projects/opengpts/frontend/yarn.lock",
+		"/home/cnmfs/projects/AI-agents/agents_multiagents/langgraph_projects/opengpts/docker-compose-prod.yml",
+		"/home/cnmfs/projects/AI-agents/assistants/code-assintants/aider/run.sh",
+		"/home/cnmfs/.docker/config.json",
+		"/home/cnmfs/projects/AI-agents/assistants/code-assintants/aider/.env",
+		"/home/cnmfs/projects/AI-agents/llms_apps/open-webui/run-compose.sh",
+		"/home/cnmfs/projects/AI-agents/llms_apps/open-webui/.env",
+		"/home/cnmfs/projects/AI-agents/llms_apps/ollama-docker/docker-compose.yml",
+		"/home/cnmfs/projects/AI-agents/llms_apps/ollama-docker/.env",
+		"/home/cnmfs/.cloudflared/config.yml",
+		"/home/cnmfs/projects/cloudflare/docker-compose.yml",
+		"/home/cnmfs/projects/proxy-vpn/nordvpn-proxy/docker-compose.yml",
+		"/home/cnmfs/.zshrc",
+		"/home/cnmfs/projects/log_graylog/docker-compose.yaml",
+		"/home/cnmfs/.config/sublime-text-3/Packages/User/Formatter.sublime-settings",
+		"/home/cnmfs/projects/log_graylog/run.sh",
+		"/home/cnmfs/projects/VM-virtual-dsm/compose.yml",
+		"/home/cnmfs/projects/VM-virtual-dsm/compose-cnmfs.yml",
+		"/home/cnmfs/projects/windows/compose.yml",
+		"/home/cnmfs/projects/windows/compose-cnmfs.yml",
+		"/home/cnmfs/projects/windows/Dockerfile",
+		"/home/cnmfs/projects/virtual-dsm/compose.yml",
+		"/home/cnmfs/MCTI/MCTI_Documents/benchmarkinf_job.md",
+		"/home/cnmfs/MCTI/MCTI_Documents/entregaveis/pesquisas/outputs/Análise do Ambiente e Identificação de Oportunidades na SETEC.md",
+		"/home/cnmfs/snippets/contabo/contabo_api.sh",
+		"/home/cnmfs/snippets/conda_create",
+		"/home/cnmfs/.cntb.yml",
+		"/home/cnmfs/.cntb.yaml",
+		"/home/cnmfs/.config/sublime-text-3/Packages/RESTer HTTP Client/RESTer.sublime-settings",
+		"/home/cnmfs/projects/AI-agents/assistants/job_specialists/Claude_Journalist/python-json-server/db.json",
+		"/home/cnmfs/snippets/contabo_api.sh",
+		"/home/cnmfs/.config/sublime-text-3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/home/cnmfs/.config/sublime-text-3/Packages/User/HttpHeadersReindent.sublime-settings",
+		"/home/cnmfs/.config/sublime-text-3/Packages/HttpHeadersReindent/HttpHeadersReindent.sublime-settings",
+		"/home/cnmfs/.ssh/known_hosts",
+		"/home/cnmfs/.ssh/known_hosts.old",
+		"/home/cnmfs/Downloads/Departamentos_SETEC.md",
+		"/home/cnmfs/MCTI/MCTI_Documents/Departamento de Apoio aos Ecossistemas de Inovação",
+		"/home/cnmfs/MCTI/MCTI_Documents/entregaveis/TopicosDirecionamento.md",
+		"/home/cnmfs/projects/AI-agents/assistants/writer-assistants/AI-Writer/lib/ai_writers/ai_news_article_writer.py",
+		"/home/cnmfs/projects/AI-agents/assistants/writer-assistants/AI-Writer/lib/utils/alwrity_utils.py",
+		"/home/cnmfs/projects/AI-agents/assistants/writer-assistants/AI-Writer/lib/ai_web_researcher/arxiv_schlorly_research.py",
+		"/home/cnmfs/projects/AI-agents/assistants/writer-assistants/AI-Writer/lib/ai_writers/ai_agents_crew_writer.py",
+		"/home/cnmfs/projects/AI-agents/assistants/writer-assistants/AI-Writer/main_config",
+		"/home/cnmfs/projects/AI-agents/assistants/writer-assistants/AI-Writer/lib/blog_postprocessing/blog_proof_reader.py",
+		"/home/cnmfs/projects/AI-agents/assistants/writer-assistants/AI-Writer/.env",
+		"/home/cnmfs/Documents/icloud/drive/ES File Explorer/Planejamento Estratégico SETEC/organograma setec.md",
+		"/home/cnmfs/Downloads/2024-04-21_131948_as_ameacas.md",
+		"/home/cnmfs/MCTI/MCTI_Documents/entregaveis/lista_topicos.md",
+		"/home/cnmfs/projects/AI-agents/cnmfs-agents/cnmfs/MemGPT/memgpt/config.py",
+		"/home/cnmfs/MCTI/Documents/agents.md",
+		"/home/cnmfs/MCTI/Documents/entregaveis/perguntas",
+		"/home/cnmfs/MCTI/Documents/entregaveis/rascunho",
+		"/home/cnmfs/MCTI/Documents/entregaveis/lista_topicos.md",
+		"/home/cnmfs/MCTI/Documents/entregaveis/pesquisas/estrategias/As principais dificuldades {gestao_administrativa}",
+		"/home/cnmfs/projects/AI-agents/assistants/web_searcher/gpt-researcher/outputs/Análise do Cenário Atual da Gestão Administrativa da SETEC.md",
+		"/home/cnmfs/projects/AI-agents/assistants/web_searcher/gpt-researcher/outputs/Análise da Gestão Administrativa e Operacional na Secretaria de Desenvolvimento Tecnológico e Inovação (SETEC) do MCTI.md",
+		"/home/cnmfs/projects/AI-agents/assistants/web_searcher/gpt-researcher/outputs/00b0dc1b950646938cb82346e4adb523.md",
+		"/home/cnmfs/projects/AI-agents/assistants/web_searcher/gpt-researcher/outputs/Análise do Ambiente e Identificação de Oportunidades na SETEC.md",
+		"/home/cnmfs/projects/AI-agents/assistants/web_searcher/gpt-researcher/outputs/Avaliação das Tendências Futuras em Ciência, Tecnologia e Inovação: Impactos na Gestão da SETECMCTI.md",
+		"/home/cnmfs/projects/AI-agents/assistants/web_searcher/gpt-researcher/outputs/Investigação de Benchmarking em Gestão Tecnológica e Inovação: Práticas Administrativas e Operacionais Comparativas.md",
+		"/home/cnmfs/projects/AI-agents/assistants/web_searcher/gpt-researcher/outputs/3fedb1e361a6474585a7b6614568779d.md",
+		"/home/cnmfs/projects/AI-agents/assistants/web_searcher/gpt-researcher/outputs/c4a15297b25d4e7b81bb99553e71ca7a.md",
+		"/home/cnmfs/projects/AI-agents/assistants/web_searcher/gpt-researcher/outputs/c0dba35310364a898f245916547f6855.md",
+		"/home/cnmfs/projects/AI-agents/assistants/web_searcher/gpt-researcher/outputs/3307344af13a4327868d1d2ca9dcb959.md",
+		"/home/cnmfs/projects/AI-agents/assistants/web_searcher/gpt-researcher/outputs/9262cae7b21844c3bb87703e16a24072.md",
+		"/home/cnmfs/projects/AI-agents/assistants/web_searcher/gpt-researcher/outputs/646ef33287e54552a2c772e484350b7c.md",
+		"/home/cnmfs/list_files.py",
+		"/home/cnmfs/projects/AI-agents/assistants/web_searcher/gpt-researcher/run.sh",
+		"/home/cnmfs/Downloads/Markdown/Knowledges/AI/Prompts/111 ChatGPT Prompts For Keyword Research - pt.md",
+		"/home/cnmfs/MCTI/Documents/organograma_setec",
+		"/home/cnmfs/MCTI/Documents/organograma com responsaveis",
+		"/home/cnmfs/projects/AI-agents/assistants/web_searcher/gpt-researcher/litellm/config.yaml",
+		"/home/cnmfs/MCTI/Documents/entregaveis/produto 1/oportunidade_global.txt",
+		"/home/cnmfs/Downloads/Markdown/Knowledges/AI/Prompts/111 ChatGPT Prompts For Keyword Research.md"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"pol"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/cnmfs/projects/AI-agents/utilidades/fabric/installer/client/gui/static/js/index.js",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12531,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7620,
+								7622
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5837.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/cnmfs/projects/AI-agents/utilidades/fabric/installer/client/gui/main.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 15903,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4590.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SFTP":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 120.0
+	},
+	"output.project_environment_log":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Nodejs/Nodejs.sublime-build",
+	"project": "gui.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 349.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

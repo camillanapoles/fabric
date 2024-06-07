@@ -333,7 +333,7 @@ document.addEventListener("DOMContentLoaded", async function () {
     event.preventDefault();
     // Remove visual feedback
     userInput.classList.remove("drag-over");
-    userInput.placeholder = originalPlaceholder;
+    // userInput.placeholder = originalPlaceholder;
   });
 
   userInput.addEventListener("drop", (event) => {
@@ -341,7 +341,7 @@ document.addEventListener("DOMContentLoaded", async function () {
     event.preventDefault();
     const file = event.dataTransfer.files[0];
     userInput.classList.remove("drag-over");
-    userInput.placeholder = originalPlaceholder;
+    // userInput.placeholder = originalPlaceholder;
     processFile(file);
   });
 

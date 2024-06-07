@@ -10,7 +10,7 @@
   "license": "ISC",
   "devDependencies": {
     "dotenv": "^16.4.1",
-    "electron": "^28.2.6",
+    "electron": "^30.0.9",
     "openai": "^4.31.0"
   },
   "dependencies": {
@@ -20,6 +20,7 @@
     "node-fetch": "^2.6.7",
     "ollama": "^0.5.0",
     "pdf-parse": "^1.1.1",
-    "unzipper": "^0.10.14"
+    "unzipper": "^0.10.14",
+    "yarn": "^1.22.22"
   }
 }
